@@ -82,7 +82,8 @@ hr{
 }
 .CSS-Description{
   clear: right;
-  margin: auto;
+  text-align: center;
+  margin-top: 200px;
 }
 .contact-me{
   width: 47%;
